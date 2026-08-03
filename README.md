@@ -1,9 +1,7 @@
-# [Group name]
+# [xjc997]
 
 **Group members:**
-- A
-- B
-- C
+- xjc997
 
 **This repository contains:***
 
